@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header-visual{
+	height: 400px;
+	width: 100%;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+
+.headline{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+main{
+	width: 840px;
+	margin: 50px auto;
+}
+
+.service1{
+	padding-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+
+.service2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+
+.service3{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+
+.service4{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid black;
+}
